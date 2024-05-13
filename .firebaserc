@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "demofire-31735": {
+      "hosting": {
+        "demofire": [
+          "demofire-31735"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "demofire-31735"
+  }
+}
